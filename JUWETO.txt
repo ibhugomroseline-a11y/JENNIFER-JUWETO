@@ -1,0 +1,6 @@
+#!/urs/bin/env python3
+
+def hello(usr):
+     pr4int("Hello, " , usr)
+hello("juweto")
+
